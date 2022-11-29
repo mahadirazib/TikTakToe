@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body{
+  text-align: center;
+  background-color: #353535;
+  color: white;
+}
+
+.App{
+  margin-top: 150px;
+}
+
+
+img{
+  width: 40px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+table{
+  display: inline;
+}
+
+td{
+  width: 70px;
+  height: 70px;
+  background-color: #24c8ce;
+}
+
+.row{
+  display: inline-block;
+  width: 30%;
+  align-items: center;
+  text-align: center;
+
+}
+
+.box{
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(16, 175, 175);
+  box-sizing: border-box;
+}
+
+.box:hover{
+  cursor: pointer;
+}
+
+
+button{
+  margin-top: 15px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  color: rgb(10, 83, 83);
+  font-size: 15px;
+  font-weight: bold;
+}
