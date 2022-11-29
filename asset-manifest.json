@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TikTakToe/static/css/main.6385d494.css",
+    "main.js": "/TikTakToe/static/js/main.7e0071f1.js",
+    "static/js/787.58d23b72.chunk.js": "/TikTakToe/static/js/787.58d23b72.chunk.js",
+    "index.html": "/TikTakToe/index.html",
+    "main.6385d494.css.map": "/TikTakToe/static/css/main.6385d494.css.map",
+    "main.7e0071f1.js.map": "/TikTakToe/static/js/main.7e0071f1.js.map",
+    "787.58d23b72.chunk.js.map": "/TikTakToe/static/js/787.58d23b72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6385d494.css",
+    "static/js/main.7e0071f1.js"
+  ]
+}
