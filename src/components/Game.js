@@ -139,7 +139,7 @@ class Game extends React.Component {
             </tr>
             </table>
 
-            {this.state.gameMoveOn===0 ? <h1>{this.state.activePerson===1 ? name1 : name0} won the game</h1> : <h2>The winner is not defined yet</h2>}
+            {this.state.gameMoveOn===0 ? <h1>{this.state.activePerson===1 ? name1 : name0} won the game</h1> : <p>The winner is not defined yet</p>}
 
 
             <button onClick={this.refreshButton}>RETRY</button>
